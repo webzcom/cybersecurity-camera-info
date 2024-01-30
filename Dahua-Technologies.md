@@ -4,7 +4,9 @@
 
 ### Default Passwords:
 
-https://securitycamcenter.com/dahua-default-password/
+Online Resources:
+- https://securitycamcenter.com/dahua-default-password/
+- https://securitycamcenter.com/reset-dahua-dvr-admin-password/
 
 #### Dahua default accounts and passwords:
 
